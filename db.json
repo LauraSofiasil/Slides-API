@@ -1,0 +1,39 @@
+{
+    "Fotos": [
+        {
+            "imagem": "https://i.postimg.cc/MZQBh6Sb/Mac.jpg",
+            "legenda": "Eu, a Lê, o Kevyn",
+            "data": "29/04/2024"
+        },
+        {
+            "imagem": "https://i.postimg.cc/HsmrRb3d/Intervalos.jpg",
+            "legenda": "Intervalo girls",
+            "data": "29/04/2024"
+        },
+        {
+            "imagem": "https://i.postimg.cc/vTrtMMpB/intevalo-manha.jpg",
+            "legenda": "Intervalo da manhã",
+            "data": "30/01/2025"
+        },
+        {
+            "imagem": "https://i.postimg.cc/NfP5MZBf/Aulinha.jpg",
+            "legenda": "Pausa na aula",
+            "data": "28/01/2025"
+        },
+        {
+            "imagem": "https://i.postimg.cc/prsM0Nq9/amigas.jpg",
+            "legenda": "Amigas",
+            "data": "04/02/2025"
+        },
+        {
+            "imagem": "https://i.postimg.cc/dtWTCLmF/Setembro-Amarelo.jpg",
+            "legenda": "Setembro Amarelo",
+            "data": "23/09/2024"
+        },
+        {
+            "imagem": "https://i.postimg.cc/FRgYHRs2/IMG-20250213-131316.jpg",
+            "legenda": "Banheiro de Eletro",
+            "data": "23/09/2024"
+        }
+    ]
+}
